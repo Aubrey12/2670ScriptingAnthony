@@ -543,4 +543,8 @@ MonoBehaviour:
   myCC: {fileID: 0}
   speed: 10
   gravity: 5
-  jumpSpeed: 50
+  jumpSpeed: 25
+  jumpCount: 0
+  jumpCountMax: 2
+  slideDuration: 100
+  slideTime: 0.01
