@@ -4,7 +4,7 @@ using System;
 
 public class UpdateDelegates : MonoBehaviour {
 
-	int health = 250;
+	/*int health = 250;
 
 	Action DisplayHealth;
 	Action KillThePlayer;
@@ -50,6 +50,6 @@ public class UpdateDelegates : MonoBehaviour {
 			KillThePlayer();
 		
 		if(EndTheGame != null)
-			EndTheGame;
-	}
+			EndTheGame; 
+	} */
 }
