@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+﻿/*using UnityEngine;
 using System.Collections;
 
 public class Variables : MonoBehaviour {
@@ -30,10 +30,9 @@ public class Variables : MonoBehaviour {
 		We use functions to show the actions taking place within the code. For example Start function begins at the start of the scene and the update 
 		function runs once per frame. Brackets are used to show when code is starting and ending. Comments can be made for a line of code by using //
 		If you want to comment several lines use multi-code /* and reverse for  to end the comment.  
-		*/
 
 
 	
 
 }
-}
+} */
