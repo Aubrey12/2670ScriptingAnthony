@@ -4,7 +4,7 @@ using System.Collections;
 public class MoveObject : MonoBehaviour {
 
     //this is the character controller component
-   public CharacterController myCC;
+   private CharacterController myCC;
     //temp var of datatype vector3 to move the character
     private Vector3 tempPos;
     //speed of the remp in x
