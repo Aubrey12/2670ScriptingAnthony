@@ -1,4 +1,4 @@
-﻿/*using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 
 public class CharacterSlide : MonoBehaviour {
@@ -10,7 +10,7 @@ public class CharacterSlide : MonoBehaviour {
 
 		IEnumerator Slide ()
 		{
-			int i = 0
+        int i = 0;
 			while (i < slideDuration)
 			{
 				i++;	
@@ -25,4 +25,3 @@ public class CharacterSlide : MonoBehaviour {
 		}
 
 }
-*/
