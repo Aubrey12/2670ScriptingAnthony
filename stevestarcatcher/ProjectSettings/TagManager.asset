@@ -15,9 +15,9 @@ TagManager:
   - 
   - Recycler
   - Level
-  - 
-  - 
-  - 
+  - MoveObject
+  - RecycleLevelObject
+  - SendToRecycler
   - 
   - 
   - 
